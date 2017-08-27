@@ -6,29 +6,10 @@ import UIKit
 //import BasicSyntax
 /* Basic Syntax */
 // Array p.47
-let array = BasicSyntax.Array()
-print("array show")
-array.show()
-print()
+//// <#Description#>let array = BasicSyntax.Array()
 
-print("array add")
-array.add("add")
-array.add(5)
-array.show()
-print()
-
-print("array update")
-array.update("update")
-array.update(10)
-array.show()
-print()
-
-print("array join")
-array.join(array.array, array.array3!)
-array.join(array.array2, array.array4)
-array.show()
-print()
 // Dictionary p.51
+var dictionary = BasicSyntax.Dictionary()
 // Range p.54
 // Optional p.58
 // Tuple p.69
