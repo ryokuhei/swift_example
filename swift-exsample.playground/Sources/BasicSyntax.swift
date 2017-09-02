@@ -2,23 +2,27 @@ import Foundation
 
 public struct BasicSyntax {
 
-    static public var array: _Array {
-        return _Array()
+    public init() {
     }
 
-    static public var dictionary: _Dictionary {
-        return _Dictionary()
+    public func array() {
+       _ = _Array()
     }
 
-    static public var range: _Range {
-        return _Range()
+    public func dictionary() {
+        _ = _Dictionary()
     }
 
-    static public var optional: _Optional {
-        return _Optional()
+    public func range() {
+        _ = _Range()
     }
 
-    init() {
+    public func optional() {
+        _ = _Optional()
+    }
+
+    public func tuple() {
+        _ =  _Tuple()
     }
 
 }

@@ -3,17 +3,20 @@
 
 import UIKit
 //import BasicSyntax
+
+let basicSyntax: BasicSyntax = BasicSyntax()
 /* Basic Syntax */
 // -Array p.47
-//BasicSyntax.array
+//basicSyntax.array()
 // -Dictionary p.51
-//BasicSyntax.dictionary
+//basicSyntax.dictionary()
 // -Range p.54
-//BasicSyntax.range
-
+//basicSyntax.range()
 // -Optional p.58
-BasicSyntax.optional
+//basicSyntax.optional()
+
 // -Tuple p.69
+basicSyntax.tuple()
 // -Cast p.71
 // -If p.77
 // -For p.90
