@@ -14,10 +14,11 @@ let basicSyntax: BasicSyntax = BasicSyntax()
 //basicSyntax.range()
 // -Optional p.58
 //basicSyntax.optional()
-
 // -Tuple p.69
-basicSyntax.tuple()
+//basicSyntax.tuple()
+
 // -Cast p.71
+basicSyntax.cast()
 // -If p.77
 // -For p.90
 // -Fallthrough p.94

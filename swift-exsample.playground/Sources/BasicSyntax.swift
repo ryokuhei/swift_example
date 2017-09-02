@@ -25,4 +25,8 @@ public struct BasicSyntax {
         _ =  _Tuple()
     }
 
+    public func cast() {
+        _ =  _Cast()
+    }
+
 }
