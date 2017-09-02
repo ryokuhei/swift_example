@@ -2,18 +2,17 @@
 // Swift 3
 
 import UIKit
-
 //import BasicSyntax
 /* Basic Syntax */
 // -Array p.47
-// BasicSyntax._Array()
+//BasicSyntax.array
 // -Dictionary p.51
-// BasicSyntax._Dictionary()
+//BasicSyntax.dictionary
 // -Range p.54
-// BasicSyntax._Range()
+//BasicSyntax.range
 
 // -Optional p.58
-BasicSyntax._Optional()
+BasicSyntax.optional
 // -Tuple p.69
 // -Cast p.71
 // -If p.77
