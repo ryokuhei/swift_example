@@ -9,10 +9,11 @@ import UIKit
 // BasicSyntax._Array()
 // -Dictionary p.51
 // BasicSyntax._Dictionary()
-
 // -Range p.54
-BasicSyntax._Range()
+// BasicSyntax._Range()
+
 // -Optional p.58
+BasicSyntax._Optional()
 // -Tuple p.69
 // -Cast p.71
 // -If p.77
