@@ -143,4 +143,20 @@ public struct BasicSyntax {
         conditionalBranch.switch(value: number)
     }
 
+    public func repetition() {
+
+        let repetition = _Repetition()
+        print("[for-in]")
+        repetition.forIn(array: [2, 4, 7])
+
+        print("[for-case]")
+        repetition.forCase(array: [2, 4, 7], range: 0..<5)
+
+        print("[while]")
+        repetition.while(repeating: 5)
+
+        print("[repeat-while]")
+        repetition.rpeatWhile(repeating: 5)
+    }
+
 }

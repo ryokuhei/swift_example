@@ -18,10 +18,12 @@ let basicSyntax: BasicSyntax = BasicSyntax()
 //basicSyntax.tuple()
 // -Cast p.71
 //basicSyntax.cast()
-
 // -Conditional Branch p.77
-basicSyntax.conditionalBranch()
+//basicSyntax.conditionalBranch()
+
 // -Repetition p.90
+basicSyntax.repetition()
+
 // -Fallthrough p.94
 // -Defer p.99
 // -Inout p.110
