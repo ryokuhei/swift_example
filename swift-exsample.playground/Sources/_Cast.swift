@@ -7,14 +7,10 @@ public class _Cast {
     var string: String
     var any: Any
 
-    init() {
-        int = 1
-        string = "いち"
-        any = "any"
-
-        upCast()
-        downCast()
-        forcedCast()
+    init(int: Int, string: String, any: Any) {
+        self.int = int
+        self.string = string
+        self.any = any
 
     }
 

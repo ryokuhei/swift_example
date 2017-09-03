@@ -4,21 +4,7 @@ import Foundation
 public class _Range {
 
     public init() {
-        print("[Range]")
-        onRange(start: 1, end: 10, containtsNo: 2)
-        print()
 
-        print("[CountableRange]")
-        onCountableRange(start: 1, end: 10, containtsNo: 2)
-        print()
-
-        print("[ClosedRange]")
-        onClosedRange(start: 1, end: 10, containtsNo: 2)
-        print()
-
-        print("[CountableClosedRange]")
-        onCountableClosedRange(start: 1, end: 10, containtsNo: 2)
-        print()
     }
 
     public func onRange(start: Int, end: Int, containtsNo: Int? = nil) {
